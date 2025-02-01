@@ -33,3 +33,21 @@
 ```sh
 git clone https://github.com/YOUR_GITHUB_USERNAME/rag-research-assistant.git
 cd rag-research-assistant
+```
+## Requirement.txt
+fastapi
+uvicorn
+qdrant-client
+sentence-transformers
+langchain
+langchain-ollama
+pypdf
+requests
+ollama
+arxiv
+numpy
+pandas
+
+```sh
+pip install -r requirements.txt
+```
